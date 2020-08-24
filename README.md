@@ -1,4 +1,4 @@
-# Contributor_contact
+# Contributor-contact
 
 Here, you can contact the contributors of this app --- [C+++](https://github.com/23786/Cppp-ide)
 
